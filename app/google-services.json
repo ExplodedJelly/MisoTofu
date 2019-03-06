@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "560048679068",
+    "firebase_url": "https://misotofu-949f4.firebaseio.com",
+    "project_id": "misotofu-949f4",
+    "storage_bucket": "misotofu-949f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560048679068:android:cad329d453c57df2",
+        "android_client_info": {
+          "package_name": "com.edwardwan.misotofu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560048679068-vk6mogeo9eljunr8l6444s2m2kq7h43v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9gNyaYMeD1ioIhGjDzOPMUeQa_UU34_k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
